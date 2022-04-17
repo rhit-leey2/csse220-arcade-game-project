@@ -1,0 +1,7 @@
+milestone1 progress:
+10/25:
+Added framework for movingObjects, Alien1, Alien2, Bullets, and Hero
+Added images folder to hold image sprites of the moving objects, platforms, and resources
+
+Updated movingObjects to appear similar to the RefactoringInheritance homework
+Added GameViewer framework and LevelsComponent file
